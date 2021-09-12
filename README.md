@@ -8,8 +8,8 @@ This repository contains the code on data preprocessing, model training and resu
 
 - [Missing Value Imputation and Deep Transfer Learning Network](#missing-value-imputation-and-deep-transfer-learning-network)
   - [Data Preprocessing for Clinical Features](#data-preprocessing-for-clinical-features)
-  - [Deep Learning Model for Image analysis]()
-  - [SVM for Feature Fusion]()
+  - Deep Learning Model for Image analysis
+  - SVM for Feature Fusion
   - [Visualization](#visualization)
 
 
