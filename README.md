@@ -1,6 +1,6 @@
 # Missing Value Imputation and Deep Transfer Learning Network
 
-This repository contains source codes for the paper **The Application of Data Imputation and Deep Learning Network in the Papillary Thyroid Carcinoma Classification**. This paper have been accepted by 2021 IEEE-IUS (2021 IEEE International Ultrasonics Symposium).
+This repository contains source codes for the paper **The Application of Data Imputation and Deep Learning Network in the Papillary Thyroid Carcinoma Classification** https://ieeexplore.ieee.org/document/9593717. This paper have been accepted by 2021 IEEE-IUS (2021 IEEE International Ultrasonics Symposium).
 
 Missing values, diversified data types and insufficient sample size have become obstacles to clinical data analysis. In this paper, we proposed a novel machine learning pipeline aiming to make full use of medical data. Missing value imputation via MICE, image analysis via deep learning and feature fusion via SVM were applied to predict the metastasis of Papillary Thyroid Carcinoma. Due to the privacy policy, data set is not  available in this repository.
 
