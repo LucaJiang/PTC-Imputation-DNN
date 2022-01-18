@@ -41,5 +41,6 @@ If you use our codes in your project, please cite the following paper
   volume={},  
   number={},  
   pages={1-4},  
-  doi={10.1109/IUS52206.2021.9593717}}
+  doi={10.1109/IUS52206.2021.9593717},
+}
 ```
