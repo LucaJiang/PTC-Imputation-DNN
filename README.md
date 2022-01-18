@@ -1,6 +1,6 @@
 # Missing Value Imputation and Deep Transfer Learning Network
 
-This repository contains source codes for the paper **Analysis of Papillary Thyroid Carcinoma Metastasis Using Missing Value Imputation and Deep Transfer Learning Network**. This paper have been accepted by 2021 IEEE-IUS (2021 IEEE International Ultrasonics Symposium).
+This repository contains source codes for the paper **The Application of Data Imputation and Deep Learning Network in the Papillary Thyroid Carcinoma Classification**. This paper have been accepted by 2021 IEEE-IUS (2021 IEEE International Ultrasonics Symposium).
 
 Missing values, diversified data types and insufficient sample size have become obstacles to clinical data analysis. In this paper, we proposed a novel machine learning pipeline aiming to make full use of medical data. Missing value imputation via MICE, image analysis via deep learning and feature fusion via SVM were applied to predict the metastasis of Papillary Thyroid Carcinoma. Due to the privacy policy, data set is not  available in this repository.
 
@@ -30,6 +30,16 @@ This repository contains the code on data preprocessing, model training and resu
 * [gradcam](gradcam.py) visualize deep learning model via heat maps;
 * [roc_curves](roc_curves.ipynb) visualize our result with ROC curves.
 
-
-
-
+# Citation Request
+If you use our codes in your project, please cite the following paper
+```
+@INPROCEEDINGS{jiangwx2021dataimpute,
+  author={Jiang, Wenxin and Chen, Xiaotong and Lv, Ning and Rao, Miao and Yu, Yanvan and Qiu, Weibao and Li, Jianming},  
+  booktitle={2021 IEEE International Ultrasonics Symposium (IUS)},   
+  title={The Application of Data Imputation and Deep Learning Network in the Papillary Thyroid Carcinoma Classification},
+  year={2021},  
+  volume={},  
+  number={},  
+  pages={1-4},  
+  doi={10.1109/IUS52206.2021.9593717}}
+```
